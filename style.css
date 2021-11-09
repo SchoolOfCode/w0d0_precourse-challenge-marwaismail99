@@ -1,0 +1,57 @@
+body {
+    background-color: rgba(226,230,255,255);
+}
+#image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#img-caption {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+h1 {
+    font-family: 'Forum', cursive;
+    font-size: 100px;
+    word-spacing: -2px;
+    letter-spacing: -3px;
+    color:rgb(151, 36, 74);
+    margin: 40px;
+}
+h2 {
+    font-family: 'Forum', cursive;
+    font-size: 60px;
+    word-spacing: -2px;
+    letter-spacing: -3px;
+    color:rgb(151, 36, 74);
+    margin: 40px;
+}
+h3 {
+    font-family: 'Forum', cursive;
+    font-size: 40px;
+}
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 60px;
+    margin: 40px;
+}
+
+#tribute-info {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#tribute-link {
+    font-family: 'IM Fell English SC', serif;
+    font-size: 20px;
+    margin: 40px;
+}
+#quotes {
+    font-family: 'IM Fell English SC', serif;
+    font-size: 20px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    line-height: 60px;
+    margin: 40px;
+}
